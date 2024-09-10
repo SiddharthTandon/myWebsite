@@ -1,0 +1,7 @@
+.hover-effect {
+    @apply text-white hover:text-orange-600 hover:underline hover:font-bold;
+}
+
+.hover-button{
+    @apply hover:font-semibold hover:underline hover:border-b-4 hover:border-white
+}
